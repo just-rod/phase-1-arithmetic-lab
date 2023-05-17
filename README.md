@@ -2,7 +2,7 @@
 
 ## Learning Goals
 
-* Recognize the limitations of math in JavaScript
+* Recognize the limitations of math in JavaScript 
 * Employ operators to perform arithmetic and assign values to variables
 * Explain what `NaN` is
 * Use built-in objects like `Math` and `Number` to accomplish complex tasks
